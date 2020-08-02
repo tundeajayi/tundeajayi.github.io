@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tunde Ajayi | github.io"
+title: "About this page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
