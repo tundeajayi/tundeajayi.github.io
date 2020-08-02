@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Tunde Ajayi"
   avatar           : "profile.jpg"
-  bio              : "With a background in Electrical Engineering and Computer Science, I currently undergo research and training in Machine Intelligence, leveraging available opportunities and resources to provide solutions to NLP-inclined challenges. "
-  location         : "Location"
+  bio              : "NLP|Conversational AI"
+  location         : "Africa"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tunde99"
+  github           : "tundeajayi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tunde-ajayi-978130b3/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
