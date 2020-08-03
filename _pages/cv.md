@@ -11,32 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS) Ghana
+  - Date: December 2020 (expected)
+  - Advisor: Antoine Bordes
+  - Co-advisors: Emily Dinan, Kurt Shuster, Eric Smith
+
+* M.Sc. in Computer Science, African University of Science and Technology (AUST) Abuja
+  - Date: December 2017
+  - Master's Thesis: Observatory System for Monitoring Electric Power Demand and Delivery
+  - Advisor: Prof. David Amos
+
+* B.Eng. in Electrical and Computer Engineering, Federal University of Technology (FUT) Minna
+  - Date: May 2014
+  - Undergraduate Project: Design of 33/11 KVA Injection Substation
+  - Advisor: Engr. A.G Raji
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* NLP Engineer, Proto (May 2020)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Educator, Diocese of Abuja (Anglican Communion) Anglican Girls' Grammar School, Abuja (Jan 2015 to September 2019)
+
+* SIWES Intern, Power Holding Company of Nigeria, Zaria (2012)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: Python
 
-Publications
+* Version control: Git
+
+* Library/Framework: PyTorch, ParlAI
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +58,22 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* National Youth Service Corps (October 2014)
+
+Workshop, Training, Community
+======
+* ICML 2020 Volunteer
+
+* L3-AI Rasa Conference (Remote)
+
+* Black in AI
+
+* AI Saturdays Abuja
+
+Languages
+======
+* English, Hausa, Yoruba
