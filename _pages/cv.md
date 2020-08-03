@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 **Education**
 ======
 * **M.Sc. in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS) Ghana**
