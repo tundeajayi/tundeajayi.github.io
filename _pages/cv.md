@@ -9,38 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
-* M.Sc. in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS) Ghana
-  - Date: December 2020 (expected)
-  - Advisor: Antoine Bordes
-  - Co-advisors: Emily Dinan, Kurt Shuster, Eric Smith
+* **M.Sc. in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS) Ghana**
+  - **Date:** December 2020 (expected)
+  - **Advisor:** Antoine Bordes
+  - **Co-advisors:** Emily Dinan, Kurt Shuster, Eric Smith
 
-* M.Sc. in Computer Science, African University of Science and Technology (AUST) Abuja
-  - Date: December 2017
-  - Master's Thesis: Observatory System for Monitoring Electric Power Demand and Delivery
-  - Advisor: Prof. David Amos
+* **M.Sc. in Computer Science, African University of Science and Technology (AUST) Abuja**
+  - **Date:** December 2017
+  - **Master's Thesis:** Observatory System for Monitoring Electric Power Demand and Delivery
+  - **Advisor:** Prof. David Amos
 
-* B.Eng. in Electrical and Computer Engineering, Federal University of Technology (FUT) Minna
-  - Date: May 2014
-  - Undergraduate Project: Design of 33/11 KVA Injection Substation
-  - Advisor: Engr. A.G Raji
+* **B.Eng. in Electrical and Computer Engineering, Federal University of Technology (FUT) Minna**
+  - **Date:** May 2014
+  - **Undergraduate Project:** Design of 33/11 KVA Injection Substation
+  - **Advisor:** Engr. A.G Raji
 
-Work experience
+**Work Experience**
 ======
-* NLP Engineer, Proto (May 2020)
+* **NLP Engineer,** Proto (May 2020 to present)
 
-* Educator, Diocese of Abuja (Anglican Communion) Anglican Girls' Grammar School, Abuja (Jan 2015 to September 2019)
+* **Educator and Head of ICT,** Examinations and Records Office, Diocese of Abuja (Anglican Communion) Anglican Girls' Grammar School, Abuja (Jan 2015 to September 2019)
 
-* SIWES Intern, Power Holding Company of Nigeria, Zaria (2012)
+* **SIWES Intern,** Power Holding Company of Nigeria, Zaria (2012)
   
-Skills
+**Skills**
 ======
-* Programming language: Python
+* **Programming language:** Python
 
-* Version control: Git
+* **Version control:** Git
 
-* Library/Framework: PyTorch, ParlAI
+* **Library/Framework:** PyTorch, ParlAI
 
 <!-- Publications
 ======
@@ -60,20 +60,20 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Service and leadership
+**Service and Leadership**
 ======
 * National Youth Service Corps (October 2014)
 
-Workshop, Training, Community
+**Workshop, Training, Community**
 ======
 * ICML 2020 Volunteer
 
-* L3-AI Rasa Conference (Remote)
+* L3-AI Rasa Conference 2020 (Virtual)
 
 * Black in AI
 
 * AI Saturdays Abuja
 
-Languages
+**Language**
 ======
 * English, Hausa, Yoruba
