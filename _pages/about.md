@@ -29,7 +29,7 @@ My background and history
 Prior to being an AMMI scholar, I received my Master's in Computer Science from African University of Science and Technology (AUST) Abuja. I taught high school kids how to play around with the computer and tried to make math less scary for few years after completing my compulsory national service (which turned out to be fun). I had my B.Eng. in Electrical and Computer Engineering from Federal University of Technology (FUT) Minna.
 
 My intellectual communities
-------
+======
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
 I belong to some cool groups. I am a member of Black in AI and AI Saturdays Abuja. I also belong to some other communities, trying to contribute to social good in my own little way. I have also participated in many conferences/workshops/summits, mostly virtual. I hope to attend a mega conference in the nearest future.
 
