@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-Hello! I am Tunde. I am a Machine Intelligence student at African Institute for Mathematical Sciences (AIMS) Ghana. I was fortunate to be offered a Google-Facebook fully funded scholarship to undergo the African Masters of Machine Intelligence (AMMI) programme. 
+Hello! I am Tunde. I am a Machine Intelligence student at [African Institute for Mathematical Sciences (AIMS) Ghana](https://aims.edu.gh). I was fortunate to be offered a Google-Facebook fully funded scholarship to undergo the [African Masters of Machine Intelligence (AMMI)](https://aimsammi.org) programme. 
 
 My work and research
 ======
@@ -26,7 +26,7 @@ My background and history
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
-Prior to being an AMMI scholar, I received my Master's in Computer Science from African University of Science and Technology (AUST) Abuja. I taught high school kids how to play around with the computer and tried to make math less scary for few years after completing my compulsory national service (which turned out to be fun). I had my B.Eng. in Electrical and Computer Engineering from Federal University of Technology (FUT) Minna.
+Prior to being an AMMI scholar, I received my Master's in Computer Science from [African University of Science and Technology (AUST) Abuja](https://aust.edu.ng). I taught high school kids how to play around with the computer and tried to make math less scary for few years after completing my compulsory national service, [(NYSC)](https://nysc.gov.ng) (which turned out to be fun). I had my B.Eng. in Electrical and Computer Engineering from [Federal University of Technology (FUT) Minna](https://futminna.edu.ng).
 
 My intellectual communities
 ======
