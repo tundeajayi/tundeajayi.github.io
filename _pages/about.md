@@ -26,7 +26,7 @@ My background and history
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
-Prior to being an AMMI scholar, I received my Master's in Computer Science from [African University of Science and Technology (AUST) Abuja](https://aust.edu.ng). I taught high school kids how to play around with the computer and tried to make math less scary for few years after completing my compulsory national service, [(NYSC)](https://nysc.gov.ng) (which turned out to be fun). I had my B.Eng. in Electrical and Computer Engineering from [Federal University of Technology (FUT) Minna](https://futminna.edu.ng).
+Prior to being an AMMI scholar, I received my Master's in Computer Science from [African University of Science and Technology (AUST) Abuja](https://aust.edu.ng). I taught high school kids how to play around with the computer and tried to make math less scary for few years after completing my compulsory national service i.e. [NYSC](https://nysc.gov.ng) (which turned out to be fun). My undergraduate programme was in Electrical and Computer Engineering at [Federal University of Technology (FUT) Minna](https://futminna.edu.ng).
 
 My intellectual communities
 ======
