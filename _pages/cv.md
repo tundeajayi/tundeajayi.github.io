@@ -13,7 +13,7 @@ redirect_from:
 **Education**
 ======
 * **M.Sc. in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS) Ghana**
-  - **Date:** March 2020 (expected)
+  - **Date:** March 2021
   - **Advisor:** Antoine Bordes
   - **Co-advisors:** Emily Dinan, Kurt Shuster, Eric Smith
 
