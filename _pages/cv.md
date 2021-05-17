@@ -37,7 +37,7 @@ redirect_from:
   
 **Skills**
 ======
-* **Programming language:** Python
+* **Programming language:** Python, SQL
 
 * **Version control:** Git
 
