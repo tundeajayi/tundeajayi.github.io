@@ -67,6 +67,8 @@ Teaching
 
 **Workshop/Training**
 ======
+* 2nd AfricaNLP Workshop (EACL2021)
+
 * ICML 2020 Volunteer (Virtual)
 
 * L3-AI Rasa Conference 2020 (Virtual)
