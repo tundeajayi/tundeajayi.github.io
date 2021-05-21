@@ -13,7 +13,7 @@ redirect_from:
 **Education**
 ======
 * **M.Sc. in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS) Ghana**
-  - **Date:** December, 2020
+  - **Expected Date:** December, 2020
   - **Advisor:** Antoine Bordes
   - **Co-advisors:** Emily Dinan, Kurt Shuster, Eric Smith
 
@@ -65,13 +65,17 @@ Teaching
 ======
 * National Youth Service Corps (October 2014)
 
-**Workshop, Training, Community**
+**Workshop/Training**
 ======
-* ICML 2020 Volunteer
+* ICML 2020 Volunteer (Virtual)
 
 * L3-AI Rasa Conference 2020 (Virtual)
 
+**Community**
+======
 * Black in AI
+
+* Masakhane
 
 * AI Saturdays Abuja
 
