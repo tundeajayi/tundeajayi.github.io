@@ -31,7 +31,7 @@ Prior to being an AMMI scholar, I received my Master's in Computer Science from 
 My intellectual communities
 ======
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
-I belong to some super cool groups. I am a member of Black in AI, [Masakhane](masakhane.io) and AI Saturdays Abuja. I also belong to some other communities, trying to contribute to social good in my own little way. I have also participated in many conferences/workshops/summits, mostly virtual.
+I belong to some super cool groups. I am a member of Black in AI, [Masakhane](https://www.masakhane.io/) and AI Saturdays Abuja. I also belong to some other communities, trying to contribute to social good in my own little way. I have also participated in many conferences/workshops/summits, mostly virtual.
 
 <!-- Create content & metadata
 ------
