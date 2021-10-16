@@ -29,7 +29,7 @@ redirect_from:
 
 **Work Experience**
 ======
-* **NLP Engineer,** Proto (May 2020 to present)
+* **NLP Engineer,** Proto (May 2020 to October 2021)
 
 * **Educator and Head of ICT,** Examinations and Records Office, Diocese of Abuja (Anglican Communion) Anglican Girls' Grammar School, Abuja (Jan 2015 to September 2019)
 
@@ -37,7 +37,7 @@ redirect_from:
   
 **Skills**
 ======
-* **Programming language:** Python, SQL
+* **Programming language:** Python
 
 * **Version control:** Git
 
