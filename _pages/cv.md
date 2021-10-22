@@ -42,8 +42,7 @@ redirect_from:
 * **Towards an End-to-End Question Answering**: submitted for conference approval.
 
 * **Speech dataset creation:** Built an approximately 2-hours speech corpus in Hausa language for automatic speech recognition using Lig-aikuma, an open source tool. 
-[https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf]
-(https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf)
+[https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf](https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf)
 
 * **Machine Translation** Trained baseline model for Hausa language using JoeyNMT toolkit as a contribution to Masakhane, a community that is promoting the representation of low-resource languages.
 
