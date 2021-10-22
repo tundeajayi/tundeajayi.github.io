@@ -14,7 +14,7 @@ redirect_from:
 ======
 * **M.Sc. in Machine Intelligence (AMMI), African Institute for Mathematical Sciences (AIMS) Ghana**
   - **Expected Date:** December, 2020
-  - **Master's Thesis:** "Towards an End-to-End Chit-Chat Question Answering". The project aimed at building Transformer-based neural networks for multi-tasking QA and chit-chat tasks and testing generalization to unseen domains using ParlAI.
+  - **Master's Thesis:** "Towards an End-to-End Chit-Chat Question Answering".
 
   - **Advisor:** Antoine Bordes, Director of Facebook AI Research
   - **Co-advisors:** Emily Dinan, Kurt Shuster and Eric Smith, Research Scientists at Facebook AI Research
@@ -39,7 +39,7 @@ redirect_from:
   
 **Projects**
 ======
-* **Towards an End-to-End Question Answering**: submitted for conference approval.
+* **Towards an End-to-End Question Answering**: The project aimed at building Transformer-based neural networks for multi-tasking QA and chit-chat tasks and testing generalization to unseen domains using ParlAI.
 
 * **Speech dataset creation:** Built an approximately 2-hours speech corpus in Hausa language for automatic speech recognition using Lig-aikuma, an open source tool. 
 - [https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf](https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf)
