@@ -40,8 +40,7 @@ redirect_from:
 ======
 * **Towards an End-to-End Chit-Chat Question Answering:** The project aimed at building Transformer-based neural networks for multi-tasking QA and chit-chat tasks and testing generalization to unseen domains using ParlAI. Click [here](https://conversations2021.files.wordpress.com/2021/11/conversations_2021_positionpaper_14_ajayi.pdf) for the pdf.
 
-* **Speech dataset creation:** Built an approximately 2-hours speech corpus in Hausa language for automatic speech recognition using Lig-aikuma, an open source tool. 
-[https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf](https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf)
+* **Speech dataset creation:** Built an approximately 2-hours speech corpus in Hausa language for automatic speech recognition using Lig-aikuma, an open source tool. Click [here](https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf) for the pdf.
 
 * **Machine Translation:** Trained baseline model for Hausa language using JoeyNMT toolkit as a contribution to Masakhane, a community that is promoting the representation of low-resource languages.
 
