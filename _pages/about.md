@@ -70,9 +70,9 @@ News
 
 * October: My contract with Proto expired. 
 
-* August: Presented a [paper](https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf) on speech dataset creation for low-resource languages.
+* August: Presented a [paper](https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf) on speech dataset creation for low-resource languages at [TOKI 2021](https://toki-ng.net/toki2021/).
 
-* July - August: Facilitated computational neuroscience and deep learning tutorials as a Teaching Assistant (TA) during NMA 2021.
+* July - August: Facilitated computational neuroscience and deep learning tutorials as a Teaching Assistant (TA) during NMA 2021 by Neuromatch Academy.
 
 * March: Submitted my AMMI MSc project report on chit-chat question answering.
 
