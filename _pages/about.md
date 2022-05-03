@@ -60,7 +60,7 @@ News
 
 **2022**
 
-* January: Attended [Advanced Language Processing Winter Scchool](http://lig-alps.imag.fr/), an online event.
+* January: Participated in the [Advanced Language Processing Winter Scchool](http://lig-alps.imag.fr/).
 
 * Contributed to a paper that got accepted at NAACL (more information on this soon)
 
