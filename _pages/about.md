@@ -52,3 +52,37 @@ Example: editing a markdown file for a talk
 <!-- For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+---
+News
+======
+
+**2022**
+
+* January: Attended [Advanced Language Processing Winter Scchool](http://lig-alps.imag.fr/), an online event.
+
+* Contributed to a paper that got accepted at NAACL (more information on this soon)
+
+**2021**
+
+* November: Presented a [position paper](https://conversations2021.files.wordpress.com/2021/11/conversations_2021_positionpaper_14_ajayi.pdf) at the 5th International Workshop on Chatbot Research, [CONVERSATIONS 2021](https://conversations2021.wordpress.com/).
+
+* October: My contract with Proto expired. 
+
+* August: Presented a [paper](https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf) on speech dataset creation for low-resource languages.
+
+* July - August: Facilitated computational neuroscience and deep learning tutorials as a Teaching Assistant (TA) during NMA 2021.
+
+* March: Submitted my AMMI MSc project report on chit-chat question answering.
+
+**2020**
+
+* August: Completed AMMI MSc coursework.
+
+* May: Got employed by Proto as NLP Engineer.
+
+**2019**
+
+* September: Got admitted to the African Masters of Machine Intelligence (AMMI) programme.
+
+
