@@ -60,7 +60,7 @@ News
 
 **2022**
 
-* **May** A project I contributed to a project whose paper *"A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"* accepted got accepted at NAACL. Click to view [paper](https://arxiv.org/abs/2205.02022) on arxiv.
+* **May:** I contributed to a project, its paper *"A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"* accepted got accepted at NAACL. Click to view [paper](https://arxiv.org/abs/2205.02022) on arxiv.
 
 * **January:** Participated in the [Advanced Language Processing Winter School, ALPS 2022](http://lig-alps.imag.fr/).
 
@@ -72,7 +72,7 @@ News
 
 * **August:** Presented a paper on speech dataset creation for low-resource languages at [TOKI 2021](https://toki-ng.net/toki2021/). Click to view [paper]((https://toki-ng.net/toki2021/proceedings_2021/Long-Sentence_Speech_Dataset_for_Low_Resource_Language.pdf)) and  [dataset](https://github.com/tunde99/AMMI-2020-SPEECH-COURSE) 
 
-* **July** - August: Facilitated computational neuroscience and deep learning tutorials as a Teaching Assistant (TA) during NMA 2021 by [Neuromatch Academy](https://academy.neuromatch.io/).
+* **July - August:** Facilitated computational neuroscience and deep learning tutorials as a Teaching Assistant (TA) during NMA 2021 by [Neuromatch Academy](https://academy.neuromatch.io/).
 
 * **March:** Submitted my AMMI MSc project report on chit-chat question answering.
 
