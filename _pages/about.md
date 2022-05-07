@@ -60,7 +60,7 @@ News
 
 **2022**
 
-* **May 2022** A project I contributed to a project whose paper *"A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"* accepted got accepted at NAACL. Click to view [paper] on arxiv(https://arxiv.org/abs/2205.02022).
+* **May** A project I contributed to a project whose paper *"A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"* accepted got accepted at NAACL. Click to view [paper](https://arxiv.org/abs/2205.02022) on arxiv.
 
 * **January:** Participated in the [Advanced Language Processing Winter School, ALPS 2022](http://lig-alps.imag.fr/).
 
