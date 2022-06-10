@@ -60,7 +60,7 @@ News
 
 **2022**
 
-* **June:** Got accepted to a PhD programme at the [Insight Centre](https://www.insight-centre.org/) hosted by [Data Science Institute](https://dsi.nuigalway.ie/) of [NUI Galway](https://www.nuigalway.ie/).
+* **June:** Got accepted to a PhD programme at the [Insight Centre](https://www.insight-centre.org/) whose host is [Data Science Institute (DSI)](https://dsi.nuigalway.ie/) of [NUI Galway](https://www.nuigalway.ie/).
 
 * **May:** Contributed to a project, its paper *"A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"* got accepted at NAACL. Click to view [paper](https://arxiv.org/abs/2205.02022) on arxiv.
 
