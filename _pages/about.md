@@ -60,6 +60,8 @@ News
 
 **2022**
 
+* **August:** Facilitated deep learning tutorials as a Teaching Assistant (TA) during [NMA 2022](https://academy.neuromatch.io/courses/nma-2022) by [Neuromatch Academy](https://academy.neuromatch.io/).
+
 * **June:** Got accepted to a PhD programme at the [Insight Centre](https://www.insight-centre.org/) whose host is [Data Science Institute (DSI)](https://dsi.nuigalway.ie/) of [NUI Galway](https://www.nuigalway.ie/).
 
 * **May:** Contributed to a project, its paper *"A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"* got accepted at NAACL. Click to view [paper](https://arxiv.org/abs/2205.02022) on arxiv.
