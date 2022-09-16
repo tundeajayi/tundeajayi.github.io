@@ -24,7 +24,7 @@ I earned my Master's in Computer Science from [African University of Science and
 My intellectual communities
 ======
 
-I belong to some super cool groups - Black in AI, [Masakhane](https://www.masakhane.io/), AI Saturdays Abuja, [International Society for Knowledge Organisation, West Africa (ISKO-WA)](https://www.isko.org/). I also belong to some communities, trying to contribute to social good in my own little way. I have also participated in many conferences/workshops/summits, mostly virtual.
+I belong to some super cool groups - Black in AI, [Masakhane](https://www.masakhane.io/), AI Saturdays Abuja, International Society for Knowledge Organisation, West Africa [(ISKO-WA)](https://www.isko.org/). I also belong to some communities, trying to contribute to social good in my own little way. I have participated in many conferences/workshops/summits, mostly virtual.
 
 ------
 
