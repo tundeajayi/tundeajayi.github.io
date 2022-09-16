@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Tunde, a PhD candidate at [Insight Centre](https://www.insight-centre.org/), Data Science Institute University of Galway, Ireland. 
+Hello! I am Tunde, a PhD candidate at [Insight Centre](https://www.insight-centre.org/), Data Science Institute, University of Galway, Ireland. 
 
 My work and research
 ======
@@ -19,7 +19,7 @@ My research is in Natural Language Processing. My recent projects include dialog
 My background and history
 ======
 
-I earned my Master's in Computer Science from [African University of Science and Technology (AUST) Abuja](https://aust.edu.ng). I participated in the [African Masters of Machine Intelligence (AMMI)](https://aimsammi.org) programme (2019/2020 Cohort) at [African Institute for Mathematical Sciences (AIMS) Ghana](https://aims.edu.gh). I also worked remotely as a NLP Engineer with [Proto](https://www.proto.cx/), an AI company that use chatbots to improve customer experience. I taught high school kids how to play around with computer and tried to make math less scary for few years after completing my compulsory national service i.e. [NYSC](https://nysc.gov.ng) (which turned out to be fun). My undergraduate programme was in Electrical and Computer Engineering at [Federal University of Technology (FUT) Minna](https://futminna.edu.ng).
+I earned my Master's in Computer Science from [African University of Science and Technology (AUST) Abuja](https://aust.edu.ng). I participated in the [African Masters of Machine Intelligence (AMMI)](https://aimsammi.org) programme (2019/2020 Cohort) at [African Institute for Mathematical Sciences (AIMS) Ghana](https://aims.edu.gh). I also worked remotely as a NLP Engineer with [Proto](https://www.proto.cx/), an AI company that use chatbots to improve customer experience. My undergraduate programme was in Electrical and Computer Engineering at [Federal University of Technology (FUT) Minna](https://futminna.edu.ng).
 
 My intellectual communities
 ======
@@ -35,11 +35,11 @@ News
 
 **2022**
 
-* **September:** The official commencement of my PhD programme at [Insight Centre](https://dsi.nuigalway.ie/unlp/unlp-members/), under the supervision of Paul Buitelaar and co-supervised by Mihael Arcan.
+* **September:** Started PhD programme at [Insight Centre](https://dsi.nuigalway.ie/unlp/unlp-members/), under the supervision of Paul Buitelaar and Mihael Arcan.
 
 * **July:** Facilitated deep learning tutorials as a Teaching Assistant (TA) during [NMA 2022](https://academy.neuromatch.io/courses/nma-2022) by [Neuromatch Academy](https://academy.neuromatch.io/).
 
-* **June:** Got accepted to a PhD programme at the [Insight Centre](https://www.insight-centre.org/) whose host is [Data Science Institute (DSI)](https://dsi.nuigalway.ie/) of [NUI Galway](https://www.nuigalway.ie/).
+* **June:** Got accepted to a PhD programme at the [Insight Centre](https://www.insight-centre.org/) whose host is [Data Science Institute (DSI)](https://dsi.nuigalway.ie/), [University of Galway](https://www.universityofgalway.ie/).
 
 * **May:** Contributed to a project, its paper *"A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation"* got accepted at NAACL. Click to view [paper](https://arxiv.org/abs/2205.02022) on arxiv.
 
