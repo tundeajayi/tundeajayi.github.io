@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Tunde, a PhD candidate at [Insight Centre](https://www.insight-centre.org/), Data Science Institute, University of Galway, Ireland. 
+Hello! I am Tunde, a reesearch student at [Insight Centre](https://www.insight-centre.org/), Data Science Institute, University of Galway, Ireland. 
 
 My work and research
 ======
@@ -28,7 +28,7 @@ I belong to some super cool groups - Black in AI, [Masakhane](https://www.masakh
 
 ------
 
-News
+<!-- News
 ======
 
 ------
@@ -65,4 +65,4 @@ News
 
 **2019**
 
-* **September:** Got admitted to the African Masters of Machine Intelligence (AMMI) programme.
+* **September:** Got admitted to the African Masters of Machine Intelligence (AMMI) programme. -->
