@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=G-AVO3sAAAAJ&hl=en"
-  email            : "tajayi@aimsammi.org"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tunde99"
+  github           : "tunde-ajayi"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/tunde_o_/"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "tunde-ajayi-978130b3/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@tunde_o_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
