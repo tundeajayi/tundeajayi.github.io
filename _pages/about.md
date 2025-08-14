@@ -19,7 +19,7 @@ My research is in Natural Language Processing, with a focus on dialogue systems.
 My background and history
 ======
 
-I earned my postgraduate degree in Computer Science from [African University of Science and Technology, Abuja](https://aust.edu.ng). I participated in the [African Masters of Machine Intelligence (AMMI)](https://aimsammi.org) programme. I also worked remotely as a NLP Engineer with [Proto](https://www.proto.cx/), an AI company that use chatbots to improve customer experience. My undergraduate programme was in Electrical and Computer Engineering at Federal University of Technology, Minna.
+I earned my postgraduate degree in Computer Science from [African University of Science and Technology, Abuja](https://aust.edu.ng). I participated in the [African Masters of Machine Intelligence (AMMI)](https://aimsammi.org) programme. I also worked remotely as a NLP Engineer with [Proto](https://www.proto.cx/), a company that uses chatbots to improve customer experience. My undergraduate study was in Electrical and Computer Engineering at Federal University of Technology, Minna.
 
 <!-- My intellectual communities
 ======
