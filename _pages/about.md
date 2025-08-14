@@ -21,10 +21,10 @@ My background and history
 
 I earned my postgraduate degree in Computer Science from [African University of Science and Technology, Abuja](https://aust.edu.ng). I participated in the [African Masters of Machine Intelligence (AMMI)](https://aimsammi.org) programme. I also worked remotely as a NLP Engineer with [Proto](https://www.proto.cx/), an AI company that use chatbots to improve customer experience. My undergraduate programme was in Electrical and Computer Engineering at Federal University of Technology, Minna.
 
-My intellectual communities
+<!-- My intellectual communities
 ======
 
-I belong to some super cool groups - Black in AI, [Masakhane](https://www.masakhane.io/), AI Saturdays Abuja, International Society for Knowledge Organisation, West Africa [(ISKO-WA)](https://www.isko.org/). I also belong to some communities, trying to contribute to social good in my own little way. I have participated in many conferences/workshops/summits, mostly virtual.
+I belong to some super cool groups - Black in AI, [Masakhane](https://www.masakhane.io/), AI Saturdays Abuja, International Society for Knowledge Organisation, West Africa [(ISKO-WA)](https://www.isko.org/). I also belong to some communities, trying to contribute to social good in my own little way. I have participated in many conferences/workshops/summits, mostly virtual. -->
 
 ------
 
